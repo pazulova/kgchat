@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596239557077",
+    "project_id": "kg-chat-4f6a9",
+    "storage_bucket": "kg-chat-4f6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596239557077:android:9bfa04bec3b66b94b95d5c",
+        "android_client_info": {
+          "package_name": "kg.kyrgyzchat.kgchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596239557077-7crdtor1u52034bsfkie0j0pa15o9h7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.kyrgyzchat.kgchat",
+            "certificate_hash": "32698765cc46cb0ed1fba850e8c94afb11ab77a5"
+          }
+        },
+        {
+          "client_id": "596239557077-r2a1eaafcrjohn3nucus7cpusrt1k6m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxo1FhcWDBsnZOiU8j1DbvBYVkIPKILM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596239557077-r2a1eaafcrjohn3nucus7cpusrt1k6m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

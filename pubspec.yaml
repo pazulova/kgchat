@@ -1,0 +1,72 @@
+name: kgchat
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.15.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  
+
+  #firebase
+  firebase_core: ^1.12.0
+  cloud_firestore: ^3.1.15
+  firebase_auth: ^3.3.6
+  firebase_storage: ^10.2.7
+
+  #images, gallery, video
+  image_picker: ^0.8.4+8
+
+  #svg, icon, font
+  flutter_svg: 1.0.1
+  google_fonts: 2.2.0
+  font_awesome_flutter: ^9.2.0
+
+  # input
+  numeric_keyboard: ^1.1.0
+
+  #country icons
+  country_icons: ^2.0.2
+
+  #others
+  equatable: ^2.0.3
+  intl: ^0.17.0
+
+  #local data
+  shared_preferences: ^2.0.13
+
+  #phone contacts
+  contacts_service: ^0.6.3
+
+  #permission
+  permission_handler: ^9.2.0
+
+  #text mask
+  easy_mask: ^2.0.1
+
+
+
+  flutter: 
+    sdk: flutter
+  get: 4.6.1  
+  flutter_bloc: ^8.0.1
+  get_it: ^7.2.0
+  
+  
+  
+
+dev_dependencies: 
+  #linter
+  flutter_lints: ^1.0.0
+  lints: 1.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/vectors/illustrations/
+    - assets/vectors/icons/
+    - assets/fonts/google_fonts/
+  uses-material-design: true
+
